@@ -1,0 +1,21 @@
+movie,movie_title,genre,language,runtime,certification
+M001,Sky Warriors,Action,Tamil,142,UA
+M002,Laughing Street,Comedy,Tamil,118,U
+M003,The Last Kingdom,Drama,English,135,UA
+M004,Shadow Mission,Thriller,English,128,A
+M005,Ocean Mystery,Adventure,Tamil,130,UA
+M006,Family Days,Drama,Tamil,125,U
+M007,Campus Chaos,Comedy,Telugu,116,U
+M008,Galaxy Run,Sci-Fi,English,150,UA
+M009,Hidden Truth,Thriller,Tamil,121,UA
+M010,Royal Crown,Historical,Hindi,160,UA
+M011,Magic Garden,Animation,English,102,U
+M012,Street Racer,Action,Telugu,138,UA
+M013,Silent River,Drama,Malayalam,132,U
+M014,Funny Business,Comedy,Hindi,110,U
+M015,Night Signal,Thriller,English,124,A
+M016,Brave Hearts,Action,Hindi,145,UA
+M017,Tiny Heroes,Animation,Tamil,98,U
+M018,Desert Storm,Adventure,Hindi,136,UA
+M019,Broken Promise,Romance,Tamil,119,U
+M020,Final Verdict,Drama,English,140,UA

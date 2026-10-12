@@ -1,0 +1,10 @@
+seat_class,ticket_price,offer,discount_rate
+Standard,180,No Offer,0.0
+Premium,250,No Offer,0.0
+Recliner,380,No Offer,0.0
+Standard,180,Discount,0.15
+Premium,250,Discount,0.1
+Recliner,380,Combo Offer,0.08
+Standard,180,Discount,0.2
+Premium,250,Discount,0.15
+Recliner,380,Combo Offer,0.12
